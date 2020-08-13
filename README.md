@@ -1,6 +1,4 @@
-### Hi, I'm Alex 👋
-
-## Data Scientist with a passion for analyzing complex problems to make them clear and actionable
+### Hi, I'm Alex 👋. I'm a data scientist with a passion for analyzing complex problems to make them clear, comprehensible, and actionable.
 <!--
 **alexmjn/alexmjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
