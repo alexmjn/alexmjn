@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alex 👋
 
+## Data Scientist with a passion for analyzing complex problems to make them clear and actionable
 <!--
 **alexmjn/alexmjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
