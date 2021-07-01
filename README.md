@@ -2,7 +2,7 @@
 
 I work with SQL and Python, especially in Pandas, sklearn, TensorFlow, and Flask to develop and deploy solutions.
 
-When I'm not programming, I love to read fiction, write, and play soccer.
+When I'm not programming, I love to read and play soccer.
 <!--
 **alexmjn/alexmjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
